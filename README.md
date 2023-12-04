@@ -35,7 +35,7 @@ You can use RETVec as the vectorization layer in any TensorFlow model with just 
 import tensorflow as tf
 from tensorflow.keras import layers
 
-# import the RETVec tokenizer layer
+# Import the RETVec tokenizer layer
 from retvec.tf import RETVecTokenizer
 
 # Define the input layer, which accepts raw strings
